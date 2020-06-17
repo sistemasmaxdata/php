@@ -1,5 +1,7 @@
 <?php
 
-echo "Meu mundo!";
+echo "Meu mundo 123!";
+
+echo "Seja bem vindo!";
 
 ?>
